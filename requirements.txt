@@ -1,1 +1,4 @@
-pip install aiogram==2.25.1 aiohttp==3.9.5
+aiogram==2.25.1
+aiohttp==3.9.5
+requests
+python-dotenv
